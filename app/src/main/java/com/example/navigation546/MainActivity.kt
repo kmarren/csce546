@@ -105,7 +105,7 @@ fun NavigationGraph(navController: NavHostController, modifier: Modifier = Modif
 @Composable
 fun HomeScreen(navController: NavHostController) {
     Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-        Text("Home Screen", style = MaterialTheme.typography.headlineLarge)
+        Text("Track Your Workouts", style = MaterialTheme.typography.headlineLarge)
     }
 }
 
