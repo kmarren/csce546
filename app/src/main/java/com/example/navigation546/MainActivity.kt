@@ -112,13 +112,13 @@ fun HomeScreen(navController: NavHostController) {
 @Composable
 fun ProfileScreen(navController: NavHostController) {
     Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-        Text("Profile Screen", style = MaterialTheme.typography.headlineLarge)
+        Text("Profile", style = MaterialTheme.typography.headlineLarge)
     }
 }
 
 @Composable
 fun SettingsScreen(navController: NavHostController) {
     Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-        Text("Settings Screen", style = MaterialTheme.typography.headlineLarge)
+        Text("Settings", style = MaterialTheme.typography.headlineLarge)
     }
 }
