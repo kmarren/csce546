@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Navigation546/.gradle/8.10.2/dependencies-accessors/3b7b48bc85b181268e4663b42fe1726457902747/3b7b48bc85b181268e4663b42fe1726457902747.iml" filepath="$PROJECT_DIR$/Navigation546/.gradle/8.10.2/dependencies-accessors/3b7b48bc85b181268e4663b42fe1726457902747/3b7b48bc85b181268e4663b42fe1726457902747.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Navigation546/.gradle/8.10.2/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/653825400482ee63928b2750563e94a5ec2d47e4.iml" filepath="$PROJECT_DIR$/Navigation546/.gradle/8.10.2/dependencies-accessors/653825400482ee63928b2750563e94a5ec2d47e4/653825400482ee63928b2750563e94a5ec2d47e4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Navigation546/app/src/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/Navigation546/app/src/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Navigation546/app/src/main/main.iml" filepath="$PROJECT_DIR$/Navigation546/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Navigation546/app/build/intermediates/merged_manifest/debug/processDebugMainManifest/processDebugMainManifest.iml" filepath="$PROJECT_DIR$/Navigation546/app/build/intermediates/merged_manifest/debug/processDebugMainManifest/processDebugMainManifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Navigation546/app/build/intermediates/merged_manifests/debug/processDebugManifest/processDebugManifest.iml" filepath="$PROJECT_DIR$/Navigation546/app/build/intermediates/merged_manifests/debug/processDebugManifest/processDebugManifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Navigation546/app/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/processDebugManifestForPackage.iml" filepath="$PROJECT_DIR$/Navigation546/app/build/intermediates/packaged_manifests/debug/processDebugManifestForPackage/processDebugManifestForPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Navigation546/app/src/test/test.iml" filepath="$PROJECT_DIR$/Navigation546/app/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
