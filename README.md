@@ -7,6 +7,7 @@ A simple Android app to log workouts, track progress, and stay consistent with f
 <p align="center"> <img src="screenshots/home.png" width="200" /> &nbsp;&nbsp;&nbsp; <img src="screenshots/new-workout.png" width="200" /> &nbsp;&nbsp;&nbsp; <img src="screenshots/time.png" width="200" /> </p> 
 <p align="center"> <img src="screenshots/view-workout.png" width="200" /> &nbsp;&nbsp;&nbsp; <img src="screenshots/callendar.png" width="200" /> &nbsp;&nbsp;&nbsp; <img src="screenshots/timer.png" width="200" /> </p>
 <p align="center"> <img src="screenshots/reminder.png" width="200" /> &nbsp;&nbsp;&nbsp; <img src="screenshots/reminder2.png" width="200" />  </p>
+
 ---
 
 ### Features
