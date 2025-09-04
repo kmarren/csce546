@@ -4,7 +4,7 @@ A simple Android app to log workouts, track progress, and stay consistent with f
 ---
 
 📸 Screenshots
-<p align="center"> <img src="screenshots/home.png" width="200" /> <img src="screenshots/time.png" width="200" /> <img src="screenshots/add-workout.png" width="200" /> </p> <p align="center"> <img src="screenshots/calendar.png" width="200" /> <img src="screenshots/timer.png" width="200" /> <img src="screenshots/reminder.png" width="200" /> </p>
+<p align="center"> <img src="screenshots/home.png" width="200" /> <img src="screenshots/new-workout.png" width="200" /> </p> <p align="center"> <img src="screenshots/calendar.png" width="200" /> <img src="screenshots/timer.png" width="200" /> <img src="screenshots/reminder.png" width="200" /> </p>
 
 ---
 
