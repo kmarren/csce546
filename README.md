@@ -21,3 +21,56 @@ A simple Android app to log workouts, track progress, and stay consistent with f
 - Reminders → Get notified at your preferred time to stay consistent.
 
 - Manage Workouts → View history and delete entries if needed.
+
+---
+
+### Tech Stack
+
+Language: Kotlin
+
+UI: Android XML Layouts + Material Components
+
+Database: SQLite / Room
+
+Architecture: MVVM (ViewModel + LiveData)
+
+Tools: Android Studio, Gradle
+
+---
+
+### Getting Started
+#### Prerequisites
+
+- Android Studio (latest version)
+
+- Android SDK 21+
+
+- Emulator or physical device
+
+#### Installation
+
+1. Clone the repo
+
+2. git clone https://github.com/your-username/workout-tracker.git
+
+3. Open in Android Studio
+
+4. Build & Run on emulator or device
+
+---
+
+### Future Improvements
+
+- Add workout charts & statistics
+
+- Sync data with Firebase / Google Fit
+
+- Support multiple user profiles
+
+- Music integration with Spotify API
+
+---
+
+### License
+
+This project is licensed under the MIT License
