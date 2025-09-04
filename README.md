@@ -51,7 +51,7 @@ Tools: Android Studio, Gradle
 
 1. Clone the repo
 
-2. git clone https://github.com/your-username/workout-tracker.git
+2. git clone [https://github.com/kmarren/workout-tracker.git]
 
 3. Open in Android Studio
 
